@@ -1,9 +1,9 @@
 class Vellm < Formula
   desc "Use Vellm CLI to interact with vellm"
   homepage "https://github.com/vellm/vellm-cli"
-  version "0.1.0"
+  version "0.1.1"
   url "https://github.com/vellm/vellm-cli/releases/download/#{version}/vellm_darwin_amd64.zip"
-  sha256 "85d2cdd3f1b9b7875d6255ce5bdefc2795a1e468f4ac52d048dc2fbca32b542c"
+  sha256 "9c772f79ae32903e895afb54e35c41e01fbc8827b1dcbf74586628fb64e82781"
 
   bottle :unneeded
 
